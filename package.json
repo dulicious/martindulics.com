@@ -1,0 +1,16 @@
+{
+  "name": "martindulics.com",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "~1.7.9",
+    "npm": "~3.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Dulics",
+  "license": "BSD-2-Clause"
+}
