@@ -2,3 +2,7 @@
   height: 200px;
   border-radius: 100px;
 }
+
+h1, h3 {
+  font-family: 'Abril Fatface', cursive;
+}
